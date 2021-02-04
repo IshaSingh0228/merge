@@ -6,7 +6,7 @@ public class test2 {
 int a=10;
 int b=20;
 System.out.println("adding value");
-System.out.println(a*b);
+System.out.println(a+b);
 
 	}
 
