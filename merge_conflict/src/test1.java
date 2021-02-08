@@ -7,6 +7,8 @@ public class test1 {
 		int b=20;
 		System.out.println("Multiplying value");
 		System.out.println(a*b);
+		for(int i=10;;){
+			
 		
 
 	}
