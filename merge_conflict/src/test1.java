@@ -7,7 +7,8 @@ public class test1 {
 		int b=20;
 		System.out.println("Multiplying value");
 		System.out.println(a*b);
-		for(int i=0;i<10;i++) {
+		int arr[]= {1,2,3};
+		for(int i:arr) {
 			
 		}
 
